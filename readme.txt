@@ -1,2 +1,2 @@
 git is a tool.
-git is free.
+git is free tool.
